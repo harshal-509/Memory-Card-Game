@@ -40,7 +40,7 @@ body{
     justify-content: center;
     align-items: center;
     z-index: 100;
-    color: #FF6D00;
+    color: bisque;
     font-family: Creepy,serif;
     display: none;
 }
@@ -63,7 +63,7 @@ body{
     }
 }
 .header{
-    color: bisque;
+    color: black;
     font-family: Creepy,serif;
     font-weight: normal;
     text-align: center;
@@ -93,7 +93,7 @@ body{
 }
 .game{
     font-family: Lunacy,serif;
-    color: brown;
+    color:black;
     font-size: 5em;
 }
 .card{
