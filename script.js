@@ -1,6 +1,6 @@
 class ac{
     constructor(){
-        this.bg=new Audio("Assets/Audio/Creepy.mp3");
+        this.bg=new Audio("Assets/Audio/Creepy.wav");
         this.fs=new Audio("Assets/Audio/flip.wav");
         this.ms=new Audio("Assets/Audio/match.wav");
         this.vs=new Audio("Assets/Audio/victory.wav");
